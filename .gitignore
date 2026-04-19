@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+.env
+
+mongo-data/
+
+.DS_Store
+Thumbs.db
+
+# Security
+*.crt
+*.key
+*.pem
+*.conf
